@@ -1,4 +1,4 @@
-# Cheapermin
+# Cheaperemin
 An attempt to replicate the behavior of a Theremin using an Arduino.
 
 ## Info
